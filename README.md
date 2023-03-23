@@ -18,4 +18,13 @@ Asserts realizados :
 ## 2. Automatização de testes em end-point
 
 
-- Realizada criação de um workflow de Testes 
+- Realizada criação de um workflow de Testes para execução dos testes automatizados em uma máquina virtual
+
+
+![image](https://user-images.githubusercontent.com/37030387/227077743-3231259a-3774-49ce-a278-3c71782a3632.png)
+
+
+
+# Autor
+
+ [<img src="https://avatars.githubusercontent.com/u/37030387?s=400&u=fcf5e6893710bee598bead4310834965df74a88a&v=4" width=115><br><sub>Eduardo dos Santos</sub>](https://github.com/Eduh06)
